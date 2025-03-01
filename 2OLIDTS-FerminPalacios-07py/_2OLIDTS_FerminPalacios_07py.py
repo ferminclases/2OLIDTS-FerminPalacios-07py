@@ -2,7 +2,7 @@ capacidad = 10
 elementos= [0]*capacidad
 tope= -1
 
-print("Teclea elemento de la pikla(termina con -1)")
+print("Teclea elemento de la pila(termina con -1)")
 x=0
 CLAVE=-1
 
